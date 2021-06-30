@@ -26,4 +26,8 @@ docker-compose exec app php artisan cache:clear
 npm i
 ```
 
+```
+docker stop ($docker -a -q)
+```
+
 http://localhost:8000
