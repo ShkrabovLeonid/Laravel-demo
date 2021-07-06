@@ -30,4 +30,5 @@ npm i
 docker stop ($docker -a -q)
 ```
 
-http://localhost:8000
+http://localhost:8000 - Main
+http://localhost:8080 - phpmyadmin
